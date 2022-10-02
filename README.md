@@ -34,9 +34,9 @@
 
 ### Dependencies
 
-- [`NodeJS`](https://nodejs.org/en/)
-- [`Rust`](https://www.rust-lang.org/)
-- [`Tauri`](https://tauri.app/)
+- [NodeJS](https://nodejs.org/en/)
+- [Rust](https://www.rust-lang.org/)
+- [Tauri](https://tauri.app/)
 
 1. Clone repo
 
