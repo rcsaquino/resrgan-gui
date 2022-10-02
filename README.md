@@ -18,7 +18,7 @@
 
 ## With installer (recommended)
 
-1. Download the [`installer`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
+1. Download the [`msi installer`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
 2. Double click the MSI installer.
 3. Follow the on screen prompts.
 
