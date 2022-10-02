@@ -28,7 +28,7 @@
 
 - [`NodeJS`](https://nodejs.org/en/)
 - [`Rust`](https://www.rust-lang.org/)
-- [`TAURI`](https://tauri.app/)
+- [`Tauri`](https://tauri.app/)
 
 1. Clone repo
 
@@ -70,4 +70,3 @@ Thanks for all the contributors.
 
 - Icon by [`Sunder Muthukumaran`](https://unsplash.com/@sunder_2k25?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [`Unsplash`](https://unsplash.com/s/photos/icon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 - [`xinntao's Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN)
-- [`NodeJS`](https://nodejs.org/en/)
