@@ -45,7 +45,7 @@
    cd resrgan-gui
    ```
 
-2. Install dependent packages
+2. Install node module dependencies
 
    ```bash
    npm install
