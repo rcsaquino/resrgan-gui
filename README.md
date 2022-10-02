@@ -34,7 +34,7 @@
 
 ### Dependencies
 
-- [NodeJS](https://nodejs.org/en/)
+- [NodeJS](https://nodejs.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Tauri](https://tauri.app/)
 
