@@ -37,7 +37,7 @@
 - [NodeJS](https://nodejs.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Tauri](https://tauri.app/)
-- [xinntao's Real ESRGAN Portable (NCNN)](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
+- [Real ESRGAN Portable (NCNN)](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
 - [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 
 1. Clone repo and install node module dependencies
