@@ -59,7 +59,7 @@
 				"fullscreen": false,
 				"height": 520,
 				"resizable": false,
-				"title": "RESRGAN GUI",
+				"title": "Real ESRGAN GUI",
 				"width": 775,
 				"center": true
 			}
