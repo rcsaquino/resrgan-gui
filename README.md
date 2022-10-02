@@ -5,6 +5,7 @@
 - This GUI uses Rust for the backend and JS/HTML/CSS for the frontend using the [`TAURI framework`](https://github.com/tauri-apps/tauri).
 
 > **Warning**
+> 
 > This is only tested on Windows 11 x64 with NVIDIA RTX 2060.
 > 
 > Feel free to create an issue for any bugs you might encounter.
