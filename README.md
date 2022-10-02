@@ -69,8 +69,5 @@ If you have any question, please email `rcsaquino.md@gmail.com`
 Thanks for all the contributors.
 
 - Icon by [`Sunder Muthukumaran`](https://unsplash.com/@sunder_2k25?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [`Unsplash`](https://unsplash.com/s/photos/icon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-- [`Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN)
+- [`xinntao's Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN)
 - [`NodeJS`](https://nodejs.org/en/)
-- [`Rust`](https://www.rust-lang.org/)
-- [`TAURI Framework`](https://tauri.app/)
-- [`Svelte Framework`](https://svelte.dev/)
