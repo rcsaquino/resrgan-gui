@@ -2,7 +2,7 @@
   <img src="assets/app-screenshot.jpg">
 </p>
 
-# resrgan-gui
+# Real ESRGAN GUI
 
 - `Real ESRGAN GUI` is a simple, fast and minimalist GUI for [`xinntao's Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN).
 - This allows you to enhance low quality images and videos using AI technology.
