@@ -37,27 +37,20 @@
 - [NodeJS](https://nodejs.org/)
 - [Rust](https://www.rust-lang.org/)
 - [Tauri](https://tauri.app/)
+- [xinntao's Real ESRGAN Portable (NCNN)](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
+- [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 
-1. Clone repo
+1. Clone repo and install node module dependencies
 
    ```bash
    git clone https://github.com/rcsaquino/resrgan-gui.git
    cd resrgan-gui
-   ```
-
-2. Install node module dependencies
-
-   ```bash
    npm install
    ```
 
-3. Download [xinntao's Real ESRGAN Portable executable files (NCNN)](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
+2. Extract `xinntao's Real ESRGAN Portable (NCNN)` to `~/resrgan-gui/src-tauri/resrgan`.
 
-4. Extract to `~/resrgan-gui/src-tauri/resrgan`.
-
-5. Download [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
-
-6. Extract and copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
+3. Extract `ffmpeg` then copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
 
 4. Build from `./resrgan-gui`
 
