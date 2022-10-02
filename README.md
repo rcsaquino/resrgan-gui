@@ -4,31 +4,31 @@
 
 # Real ESRGAN GUI
 
-- `Real ESRGAN GUI` is a simple and minimal GUI for [xinntao's Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
-- This allows you to enhance low quality images and videos using AI technology.
-- This GUI uses Rust for the backend and JS/HTML/CSS for the frontend using the [Tauri framework](https://github.com/tauri-apps/tauri).
+- `Real ESRGAN GUI` is a simple and minimal GUI for [xinntao's Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- This allows you to enhance low quality images and videos using AI technology
+- This GUI uses Rust for the backend and JS/HTML/CSS for the frontend using the [Tauri framework](https://github.com/tauri-apps/tauri)
 
 > **Warning**
 > 
-> This is only tested on Windows 11 x64 with NVIDIA RTX 2060.
+> This is only tested on Windows 11 x64 with NVIDIA RTX 2060
 > 
-> Feel free to create an issue for any bugs you might encounter.
+> Feel free to create an issue for any bugs you might encounter
 
 # Installation
 
 ## With installer (recommended)
 
-1. Download the [.msi installer](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
-2. Double click the MSI installer.
-3. Follow the on screen prompts.
+1. Download the [.msi installer](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section
+2. Double click the MSI installer
+3. Follow the on screen prompts
 
 ## Portable zip
 
 > **Warning**
 > Portable version is still unstable
 
-1. Download the [portable zip](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
-2. Extract to your preferred directory.
+1. Download the [portable zip](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section
+2. Extract to your preferred directory
 
 ## Compile it yourself
 
@@ -48,7 +48,7 @@
    npm install
    ```
 
-2. Extract `Real ESRGAN Portable (NCNN)` to `~/resrgan-gui/src-tauri/resrgan`.
+2. Extract `Real ESRGAN Portable (NCNN)` to `~/resrgan-gui/src-tauri/resrgan`
 
 3. Extract `FFmpeg` then copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
 
@@ -57,9 +57,9 @@
    ```bash
    cargo tauri build
    ```
-5. Your build should be on `~/resrgan-gui/src-tauri/target/release`
+5. Your build should be on `~/resrgan-gui/src-tauri/target/release`.
 
-You can also customize it how you like. Just edit `~/resrgan-gui/src/App.svelte` for UI customization, and `~/resrgan-gui/src-tauri/src/main.rs` for other backend stuff. You can also run `cargo tauri dev` for hot realoading.
+You can customize it how you like. Just edit `~/resrgan-gui/src/App.svelte` for UI customization, and `~/resrgan-gui/src-tauri/src/main.rs` for other backend stuff. You can also run `cargo tauri dev` for hot realoading.
 
 # Contact
 
