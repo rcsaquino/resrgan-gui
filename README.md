@@ -22,7 +22,7 @@
 2. Double click the MSI installer.
 3. Follow the on screen prompts
 
-## Compile yourself
+## Compile it yourself
 
 ### Dependencies
 
