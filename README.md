@@ -6,7 +6,7 @@
 
 - `Real ESRGAN GUI` is a simple and minimal GUI for [`xinntao's Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN).
 - This allows you to enhance low quality images and videos using AI technology.
-- This GUI uses Rust for the backend and JS/HTML/CSS for the frontend using the [`TAURI framework`](https://github.com/tauri-apps/tauri).
+- This GUI uses Rust for the backend and JS/HTML/CSS for the frontend using the [`Tauri framework`](https://github.com/tauri-apps/tauri).
 
 > **Warning**
 > 
