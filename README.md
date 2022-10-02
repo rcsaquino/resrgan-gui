@@ -18,7 +18,7 @@
 
 ## With installer (recommended)
 
-1. Download [`Real ESRGAN GUI`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
+1. Download the [`installer`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
 2. Double click the MSI installer.
 3. Follow the on screen prompts.
 
@@ -27,7 +27,7 @@
 > **Warning**
 > Portable version is still unstable
 
-1. Download [`Real ESRGAN GUI Portable`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
+1. Download the [`portable zip`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
 2. Extract to your preferred directory.
 
 ## Compile it yourself
