@@ -32,7 +32,7 @@
 
 ## Compile it yourself
 
-### Dependencies
+### Prerequisites
 
 - [NodeJS](https://nodejs.org/)
 - [Rust](https://www.rust-lang.org/)
