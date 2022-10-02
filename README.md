@@ -4,9 +4,9 @@
 
 # Real ESRGAN GUI
 
-- `Real ESRGAN GUI` is a simple and minimal GUI for [`xinntao's Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN).
+- `Real ESRGAN GUI` is a simple and minimal GUI for [xinntao's Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN).
 - This allows you to enhance low quality images and videos using AI technology.
-- This GUI uses Rust for the backend and JS/HTML/CSS for the frontend using the [`Tauri framework`](https://github.com/tauri-apps/tauri).
+- This GUI uses Rust for the backend and JS/HTML/CSS for the frontend using the [Tauri framework](https://github.com/tauri-apps/tauri).
 
 > **Warning**
 > 
@@ -18,7 +18,7 @@
 
 ## With installer (recommended)
 
-1. Download the [`.msi installer`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
+1. Download the [.msi installer](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
 2. Double click the MSI installer.
 3. Follow the on screen prompts.
 
@@ -27,7 +27,7 @@
 > **Warning**
 > Portable version is still unstable
 
-1. Download the [`portable zip`](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
+1. Download the [portable zip](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section.
 2. Extract to your preferred directory.
 
 ## Compile it yourself
@@ -51,11 +51,11 @@
    npm install
    ```
 
-3. Download [`xinntao's Real ESRGAN Portable executable files (NCNN)`](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
+3. Download [xinntao's Real ESRGAN Portable executable files (NCNN)](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
 
 4. Extract to `~/resrgan-gui/src-tauri/resrgan`.
 
-5. Download [`ffmpeg`](https://www.gyan.dev/ffmpeg/builds/)
+5. Download [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 
 6. Extract and copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
 
@@ -76,5 +76,5 @@ If you have any question, please email `rcsaquino.md@gmail.com`
 
 Thanks for all the contributors.
 
-- [`xinntao's Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN)
-- Icon by [`Sunder Muthukumaran`](https://unsplash.com/@sunder_2k25?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [`Unsplash`](https://unsplash.com/s/photos/icon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+- [xinntao's Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- Icon by [Sunder Muthukumaran](https://unsplash.com/@sunder_2k25?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/icon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
