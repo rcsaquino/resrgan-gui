@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/app-screenshot.jpg">
+</p>
+
 # resrgan-gui
 
 - `Real ESRGAN GUI` is a simple, fast and minimalist GUI for [`xinntao's Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN).
@@ -39,11 +43,22 @@
    npm install
    ```
 
-3. Build
+3. Download [`xinntao's Real ESRGAN Portable executable files (NCNN)`](https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-windows.zip)
+
+4. Extract to `~/resrgan-gui/src-tauri/resrgan`.
+
+5. Download [`ffmpeg`](https://www.gyan.dev/ffmpeg/builds/)
+
+6. Extract and copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
+
+4. Build from `./resrgan-gui`
 
    ```bash
    cargo tauri build
    ```
+5. Your build should be on `~/resrgan-gui/src-tauri/target/release`
+
+You can also customize it how you like. Just edit `~/resrgan-gui/src/App.svelte` for UI customization, and `~/resrgan-gui/src-tauri/src/main.rs` for other backend stuff. You can also run `cargo tauri dev` for hot realoading.
 
 # Contact
 
