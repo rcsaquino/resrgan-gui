@@ -22,7 +22,7 @@ struct ConstantPaths {
 impl ConstantPaths {
     fn new() -> Self {
         Self {
-            resrgan_path: ".\\resrgan-gui\\resrgan.exe".to_string(),
+            resrgan_path: ".\\resrgan-gui\\realesrgan-ncnn-vulkan.exe".to_string(),
             model_path: ".\\resrgan-gui\\models".to_string(),
             ffmpeg_path: ".\\resrgan-gui\\ffmpeg.exe".to_string(),
             output_path: format!(
