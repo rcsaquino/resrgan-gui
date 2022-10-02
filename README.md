@@ -48,7 +48,7 @@
    npm install
    ```
 
-2. Extract `xinntao's Real ESRGAN Portable (NCNN)` to `~/resrgan-gui/src-tauri/resrgan`.
+2. Extract `Real ESRGAN Portable (NCNN)` to `~/resrgan-gui/src-tauri/resrgan`.
 
 3. Extract `ffmpeg` then copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
 
