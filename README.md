@@ -6,6 +6,7 @@
 
 > **Warning**
 > This is only tested on Windows 11 x64 with NVIDIA RTX 2060.
+> 
 > Feel free to create an issue for any bugs you might encounter.
 
 # Installation
