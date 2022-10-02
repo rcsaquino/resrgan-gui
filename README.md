@@ -50,7 +50,7 @@
 
 2. Extract `Real ESRGAN Portable (NCNN)` to `~/resrgan-gui/src-tauri/resrgan`.
 
-3. Extract `ffmpeg` then copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
+3. Extract `FFmpeg` then copy `ffmpeg.exe` to `~/resrgan-gui/src-tauri/resrgan`
 
 4. Build from `./resrgan-gui`
 
