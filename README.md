@@ -55,4 +55,5 @@ Thanks for all the contributors.
 - [`Real-ESRGAN`](https://github.com/xinntao/Real-ESRGAN)
 - [`NodeJS`](https://nodejs.org/en/)
 - [`Rust`](https://www.rust-lang.org/)
-- [`TAURI`](https://tauri.app/)
+- [`TAURI Framework`](https://tauri.app/)
+- [`Svelte Framework`](https://svelte.dev/)
