@@ -18,16 +18,16 @@
 
 ## With installer (recommended)
 
-1. Download the [.msi installer](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section
+1. Download the [.msi installer]([https://github.com/rcsaquino/resrgan-gui/releases](https://github.com/rcsaquino/resrgan-gui/releases/download/v0.1.0/Real.ESRGAN.GUI_0.1.0_x64_en-US.msi)) from the releases section
 2. Double click the MSI installer
 3. Follow the on screen prompts
 
 ## Portable zip
 
 > **Warning**
-> Portable version is still unstable
+> Portable version is still unstable (windows 11 and *some* windows 10 users only). Try the `.msi installer` if you encounter problems.
 
-1. Download the [portable zip](https://github.com/rcsaquino/resrgan-gui/releases) from the releases section
+1. Download the [portable zip]([https://github.com/rcsaquino/resrgan-gui/releases](https://github.com/rcsaquino/resrgan-gui/releases/download/v0.1.0/resrgan-gui-portable_0.1.0_x64_en-US.zip)) from the releases section
 2. Extract to your preferred directory
 
 ## Compile it yourself
