@@ -58,7 +58,7 @@
    ```
 5. Your build should be on `~/resrgan-gui/src-tauri/target/release`
 
-You can customize it how you like. Just edit `~/resrgan-gui/src/App.svelte` for UI customization, and `~/resrgan-gui/src-tauri/src/main.rs` for other backend stuff. You can also run `cargo tauri dev` for hot realoading.
+You can customize it how you like. Just edit `~/resrgan-gui/src/App.svelte` for UI customization, and `~/resrgan-gui/src-tauri/src/main.rs` for other backend stuff. You can also run `cargo tauri dev` for hot reloading.
 
 # Contact
 
