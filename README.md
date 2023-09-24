@@ -60,13 +60,19 @@
 
 You can customize it how you like. Just edit `~/resrgan-gui/src/App.svelte` for UI customization, and `~/resrgan-gui/src-tauri/src/main.rs` for other backend stuff. You can also run `cargo tauri dev` for hot reloading.
 
-# Contact
-
-If you have any question, please email `rcsaquino.md@gmail.com`
-
 # Acknowledgement
 
 Thank you to all the contributors:
 
 - [xinntao's Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - Icon by [Sunder Muthukumaran](https://unsplash.com/@sunder_2k25?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/icon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
+# Contact
+
+If you have any question, please email `rcsaquino.md@gmail.com`
+
+# Support My Work
+
+If you like resrgan-gui, then please support my work and enthusiasm by buying me a coffee on [https://ko-fi/rcsaquino](https://ko-fi/rcsaquino)😊.
+
+<a href='https://ko-fi.com/rcsaquino' target='_blank'><img height='72' style='border:0px;height:72px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
